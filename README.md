@@ -3,5 +3,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in Bangkok Thailand
 *   ✉️  You can contact me at [phusitboonwong.phu@gmail.com](mailto:phusitboonwong.phu@gmail.com)
-*   🧠  I'm learning Typescript Docker Kubernetes### Skills 
+*   🧠  I'm learning Typescript Docker Kubernetes
 
